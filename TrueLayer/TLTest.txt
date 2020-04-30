@@ -1,0 +1,14 @@
+Script Start Time : 2020.04.30-15.15.28
+Process finished after 7.003 seconds
+File Name is TLTest.txt.
+Name of the machine is Rabih-MBPro.
+This is my PID 45694
+My user is rabster.
+Your home directory is /Users/rabster.
+This is my IP Address 94.7.172.81
+Primary memory available: 16.00 gigabytes
+Directory Structure:
+
+/Users/rabster/TrueLayerTest
+   |-TrueLayer
+
